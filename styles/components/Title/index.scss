@@ -1,0 +1,15 @@
+.title {
+  h1, .field-title {
+      line-height: normal;
+      padding-bottom: 10px;
+      display: block;
+      text-decoration: none;
+      cursor: pointer;
+      font-size: 75px;
+      font-weight: 700;
+  }
+
+  .field-title a {
+    color: #555;
+  }
+}
