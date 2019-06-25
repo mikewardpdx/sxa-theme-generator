@@ -12,7 +12,6 @@ export class Title {
 
   init = () => {
     this.foo.addEventListener('click', this.makeNoise);
-    // console.log('hello from TS!!')
   }
 
   makeNoise(): void {
