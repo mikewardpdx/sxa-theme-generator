@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode development",
-    "start": "start-storybook -s ./assets -p 6006",
-    "storybook": "start-storybook -s ./assets -p 6006"
+    "start": "start-storybook -s ./assets -p 6007",
+    "storybook": "start-storybook -s ./assets -p 6007"
   },
   "author": "",
   "license": "ISC",
